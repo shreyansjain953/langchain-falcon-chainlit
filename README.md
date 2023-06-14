@@ -1,8 +1,6 @@
 # langchain-falcon-chainlit
 Simple Chat UI using Falcon model, LangChain and Chainlit
 
-### [Youtube Video Covering this GitHub Repo](https://youtu.be/gnyUUY8X-G4)
-
 ### Open Source in Action 🚀
 - [Falcon](https://falconllm.tii.ae/) as Large Language model
 - [LangChain](https://python.langchain.com/en/latest/modules/models/llms/integrations/huggingface_hub.html) as a Framework for LLM
@@ -35,6 +33,3 @@ cd langchain-falcon-chainlit
    ```
    chainlit run langchain_falcon.py -w
    ```
-
-## Disclaimer
-This is test project and is presented in my youtube video to learn new stuffs using the available open source projects and model. It is not meant to be used in production as it's not production ready. You can modify the code and use for your usecases ✌️
